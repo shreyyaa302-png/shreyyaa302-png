@@ -12,7 +12,7 @@ ABOUT ME
 
 TECHNICAL SKILLS
 
-. Programming : Pyhton (Learning)
+. Programming : Python (Learning)
 . Areas of Interest : Cybersecurity,IOT,Blockchain
 
 CURRENTLY LEARNING
